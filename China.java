@@ -4,5 +4,6 @@ class China{
 		String str = "China";
 		String str2 = "Henan";
 		String str3 = "Beijing";
+		String str4 = "Tianjin"；
 	}
 }
